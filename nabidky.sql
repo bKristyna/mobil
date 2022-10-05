@@ -104,7 +104,7 @@ CREATE TABLE IF NOT EXISTS `users` (
 --
 
 INSERT INTO `users` (`id`, `login`, `password`, `name`) VALUES
-(1, 'Kristýna', 'be74d5c9514119f44159863723383f93', 'Kristýna');
+(1, 'Kristýna', 'c370b4d458989a3177e68b5f4f34fda6', 'Kristýna');
 
 --
 -- Indexes for dumped tables
